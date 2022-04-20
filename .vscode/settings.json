@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/54345470-2d94-4fe7-8504-14087a4b0326/resourceGroups/appsvc_windows_centralus_basic/providers/Microsoft.Web/sites/vazamento-de-memoria-api"
+}
